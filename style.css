@@ -1,0 +1,19 @@
+.row{
+    gap: 2px;
+    justify-content: center;
+    text-align: center;
+}
+.col-1{
+    gap: 2px;
+    padding: 5px;
+    margin-top: 3px;
+    justify-content: center;
+    text-align: center;
+    border-radius: 15%;
+}
+.col-3{
+    gap: 2px;
+    padding: 2px;
+    justify-content: center;
+    text-align: center;
+}
